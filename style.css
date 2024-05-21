@@ -15,7 +15,7 @@ body {
     color: var(--branco-principal);
 }
 .principal {
-    background-image: url(“ng/Background.png”);
+    background-image: url(“ong/Background.png”);
     }
     .container {
         height: 100vh;
